@@ -4,6 +4,8 @@ In this sketch, you play as a frog trying to get to the pond at the top of the s
 Every five times you reach the end the level changes. As the levels increase, so too do the roadways, cars, points for going up, and the speed of the cars.
 Every 4000 points net an extra life. The game ends when your lives reach zero.
 
+Link to git page: https://soul-meiser.github.io/Frogger/
+
 Link to the P5.js editor: https://editor.p5js.org/DatMan/sketches/tiFcnVTZc
 
 Here is a screenshot of what the code generates:
